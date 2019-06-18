@@ -1,0 +1,7 @@
+{
+  "name": "gnosisDistribuzioni",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
